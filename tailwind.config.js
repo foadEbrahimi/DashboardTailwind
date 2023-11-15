@@ -6,6 +6,9 @@ module.exports = {
       colors: {
         myColor: "rgb(99,102,241)",
       },
+      width: {
+        Search: "50rem",
+      },
     },
   },
   plugins: [],
